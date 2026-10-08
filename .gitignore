@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+media/certificates/*
+!media/certificates/.gitkeep
+db.sqlite3
+*.log
+.DS_Store
+env/
+postman_collection.json
